@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+![travel website](https://user-images.githubusercontent.com/98849270/162588429-77113f26-b381-4fe2-b558-1e89e920e4a6.png)
+![travel website 1](https://user-images.githubusercontent.com/98849270/162588430-f4c8bbad-6a89-49a8-adaa-b9b7d7d5f204.png)
+![travel website 3](https://user-images.githubusercontent.com/98849270/162588427-252f44db-40b8-4d2b-b24f-35fa771722b0.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
